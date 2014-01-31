@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack --name monkeybot
+web: bin/hubot --adapter slack
